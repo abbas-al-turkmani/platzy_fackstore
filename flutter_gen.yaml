@@ -1,0 +1,25 @@
+flutter_gen:
+  output: lib/core/gen/
+  line_length: 80
+
+  # Optional
+  integrations:
+    image: true
+    flutter_svg: true
+    rive: true
+    lottie: true
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/images/products/
+    - assets/images/catigories/
+    - assets/images/catigories/hoddies/
+    - assets/translations/
+
+  fonts:
+    - family: Circular Std
+      fonts:
+        - asset: assets\fonts\Circular Std Font.ttf
