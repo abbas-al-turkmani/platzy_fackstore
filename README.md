@@ -11,7 +11,7 @@ Finally, the user can place buy for the cart he created.​
 1. Search from multiple categories, present product detiles, add to wishlist and add to cart.
 2. Create Shopping cart to fill want you want to buy.
 3. Change app color theme; (White and Dark).
-4. Change app language; (English and arabic). with applity to add new languge.
+4. Change app language; (English and Arabic). with ability to add new language.
 
 # The packages used in this project:
 
